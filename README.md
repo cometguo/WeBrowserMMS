@@ -1,2 +1,2 @@
-# WeBrowser.Net
-WeBrowser.Net user help center
+# WeBrowserMMS
+http://mms.timewe.net user help center
