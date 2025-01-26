@@ -2,7 +2,7 @@
 http://mms.timewe.net 帮助中心
 
 # READMME 自述文件
--	zh-TW	[繁體中文](readme/README.zh-TW.md)
+-	zh-TW	[繁體中文](README.zh-TW.md)
 -	zh-CN	[简体中文](readme/README.zh-CN.md)
 -	vi	[Tiếng Việt](readme/README.vi.md)
 -	ur-PK	[اُردو (پاکستان)](readme/README.ur-PK.md)
@@ -39,7 +39,7 @@ http://mms.timewe.net 帮助中心
 -	fa	[فارسی](readme/README.fa.md)
 -	es-CU	[Español](readme/README.es-CU.md)
 -	es	[español](readme/README.es.md)
--	en	[English](README.md)
+-	en	[English](../README.md)
 -	el	[Ελληνικά](readme/README.el.md)
 -	de	[Deutsch](readme/README.de.md)
 -	da	[Dansk](readme/README.da.md)
